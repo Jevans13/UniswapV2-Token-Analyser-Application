@@ -1,0 +1,103 @@
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+
+.custom-style-class-red {
+  color: black;
+  background-color: indianred;
+}
+
+.custom-style-class-green {
+  color: black;
+  background-color: green;
+}
+
+.headerStyle1 {
+          background-color:blue;
+          textAlign:center;
+          color: darkorange;
+          borderRadius: 5px;
+          padding: 5px;
+          border:1px solid black;
+          borderRight: 3px solid yellow;
+          borderLeft:3px solid yellow;
+          borderTop:3px solid yellow;
+          borderBottom:3px solid yellow;   
+}
+
+.nodeStyle1 {
+          align-items:center;
+          }
+
+.backGround{
+    height: 100vh;
+    margin: 0;
+}
+
+//https://gist.github.com/sghall/380aa1055bcad4db22d1fc258d7f09d0
+.ReactTable {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.ReactTable * {
+  box-sizing: border-box
+}
+
+.ReactTable .rt-table {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  width: 100%;
+  border-collapse: collapse;
+  overflow: auto
+}
+
+.ReactTable .rt-thead {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
