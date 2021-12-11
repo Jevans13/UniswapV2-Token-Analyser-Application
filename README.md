@@ -1,6 +1,6 @@
 This repo includes the work submitted for the MSc Computer Science final project at the University of Birmingham.
 
-The application found at https://uv2la.netlify.app
+The application found at https://u2la.netlify.app
 
 Prerequisites:
 Node Package Manager (NPM) - https://nodejs.org/en/
