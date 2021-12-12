@@ -27,7 +27,7 @@ return (
 <Box w = '60%' p={5} orderWidth="1px" borderRadius="lg" overflow="hidden" bg="white" border='white' borderWidth="1px">
 <Heading size="2xl" as="h1"> Using this application </Heading>
   <br />  
-<Text> This app acts as a tool for users of the Uniswap DEX.</Text> 
+<Text> This app acts as a tool for users of the Uniswap V2 DEX.</Text> 
   <br />
 <Text> Browse the top tokens and top pairs features or search for any ERC20 token hosted on Uniswap using the Navbar.</Text>
   <br />
