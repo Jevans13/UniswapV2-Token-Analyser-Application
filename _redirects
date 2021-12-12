@@ -1,0 +1,5 @@
+# Redirect locations
+/home              /
+/top-tokens        /top-tokens
+/top-pairs         /top-pairs
+/token             /token
