@@ -1,6 +1,10 @@
-This repo includes the work submitted for the MSc Computer Science final project at the University of Birmingham.
+**Uniswap Token Analyser React Web Application**
 
-The application found at https://u2la.netlify.app
+Source code and submitted thesis for the Uniswap V2 Liquidity Analyser web application.
+
+Decentralised exchanges act as a way for users of cryptocurrencies to exchange assets without the need for a centralised third-party. This application aims to provide an analytics service for users of decentralised exchanges by utilising the publicly available data of the Ethereum blockchain to provide up to date and unbiased analytics.
+
+The application found at https://u2ta.netlify.app
 
 Prerequisites:
 Node Package Manager (NPM) - https://nodejs.org/en/
